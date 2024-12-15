@@ -1,6 +1,6 @@
-# openwebrxplus-docker-builder
-OpenWebRX+ docker images builder.  
-Use this repo to build the official docker image and the SoftMBE image.  
+# CasaRX
+the is a fork of openwebrxplus-docker-builder.  
+Use this fork to build the modifide docker image.  
 The SoftMBE will use codecserver-softmbe (mbelib), enabling DMR, D-Star, YSF, FreeDV, DRM, NXDN and other Digital modes.
 
 # Docker Hub
